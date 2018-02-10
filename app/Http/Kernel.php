@@ -60,5 +60,6 @@ class Kernel extends HttpKernel
         'throttle' => \Illuminate\Routing\Middleware\ThrottleRequests::class,
         //register new middleware
         'role'=>\App\Http\Middleware\RoleMiddleware::class,
+        'IsAdmin'=>\App\Http\Middleware\IsAdmin::class,
     ];
 }

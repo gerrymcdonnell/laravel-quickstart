@@ -84,7 +84,9 @@
 
                 <div class="links">
 
-                    <a href="/admin/user/roles">admin</a>
+                    <a href="/admin">admin1</a>
+
+                    <a href="/admin/user/roles">admin2</a>
 
                 </div>
             </div>
